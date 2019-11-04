@@ -4,7 +4,7 @@
   "main": "dist/anglepicker.js",
   "module": "dist/anglepicker.module.js",
   "jsnext:main": "dist/anglepicker.module.js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": {
     "name": "Gardelin",
     "email": "rlabrovi@gmail.com",
